@@ -1,0 +1,19 @@
+{
+    "detection_inputs": {
+        "path_detections": [
+            "data/dataset/detections/0619-1.txt",
+            "data/dataset/detections/0619-2.txt",
+            "data/dataset/detections/0619-3.txt"
+         ],
+        "path_cameras": [
+            "data/calibration/cam1_0619.json",
+            "data/calibration/cam2_0619.json",
+            "data/calibration/cam3_0619.json"
+       ],
+        "corresponding_frames": [20368, 18712, 17370],
+        "ground_truth": {
+            "filepath": "data/dataset/trajectory/0619_fps30_rtk.txt",
+            "frequency": 6
+        }
+    }
+}
