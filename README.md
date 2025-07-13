@@ -49,7 +49,7 @@ This includes:
 
 If you use this dataset or code in your research, please cite:
 
-@article{Yi2025PoseFreeGeoLocator,
+> @article{Yi2025PoseFreeGeoLocator,
 title   = {Time Series for Flying Object Geographic Coordinate Recognition without Attitude Measurement and Reference Objects},
 author  = {Junfan Yi， Ke-ke Shang and Michael Small},
 journal = {In submission},
